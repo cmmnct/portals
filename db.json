@@ -1,0 +1,52 @@
+[
+  {
+    "topic": "Producten",
+    "items": [
+      {
+        "label": "Digital",
+        "url": "http://www.nu.nl"
+      },
+      {
+        "label": "Sales",
+        "url": "ttp://www.nu.nl"
+      },
+      {
+        "label": "Fysiek",
+        "url": "ttp://www.nu.nl"
+      }
+    ]
+  },
+  {
+    "topic": "Afdeling",
+    "items": [
+      {
+        "label": "Digital",
+        "url": "http://www.nu.nl"
+      },
+      {
+        "label": "Sales",
+        "url": "ttp://www.nu.nl"
+      },
+      {
+        "label": "Fysiek",
+        "url": "ttp://www.nu.nl"
+      }
+    ]
+  },{
+    "topic": "Onderwerp",
+    "items": [
+      {
+        "label": "Digital",
+        "url": "http://www.nu.nl"
+      },
+      {
+        "label": "Sales",
+        "url": "ttp://www.nu.nl"
+      },
+      {
+        "label": "Fysiek",
+        "url": "ttp://www.nu.nl"
+      }
+    ]
+  }
+]
